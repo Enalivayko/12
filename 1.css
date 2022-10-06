@@ -15,3 +15,10 @@
 li {
 	list-style: none;
 }
+
+.hand {
+	max-width: 100%;
+	border: 2px solid rgb(186, 49, 49);
+	display: block;
+	margin: 0 auto;
+}
